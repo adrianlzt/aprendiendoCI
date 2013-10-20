@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.version       = Lci::VERSION
   spec.authors       = ["Adrian Lopez Tejedor"]
   spec.email         = ["adrianlzt@gmail.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
-  spec.homepage      = ""
+  spec.description   = %q{Gem to learn CI}
+  spec.summary       = %q{GEM to serve as a project to make a complete continuos deployment with free tools}
+  spec.homepage      = "adrianlzt.github.io"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
