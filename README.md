@@ -1,4 +1,5 @@
 # Lci
+[![Build Status](https://travis-ci.org/adrianlzt/aprendiendoCI.png?branch=master)](https://travis-ci.org/adrianlzt/aprendiendoCI)
 
 TODO: Write a gem description
 
