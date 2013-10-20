@@ -1,9 +1,5 @@
 #!/usr/bin/env ruby
 
-require 'sinatra'
 require 'lci'
 
-get '/' do
-  Lci.hi
-end
-
+puts Lci.hi
