@@ -1,5 +1,7 @@
 require "lci/version"
 
 module Lci
-  # Your code goes here...
+  def self.hi
+    "algo por pantalla"
+  end
 end

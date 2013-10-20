@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["adrianlzt@gmail.com"]
   spec.description   = %q{Gem to learn CI}
   spec.summary       = %q{GEM to serve as a project to make a complete continuos deployment with free tools}
-  spec.homepage      = "adrianlzt.github.io"
+  spec.homepage      = "http://adrianlzt.github.io"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
